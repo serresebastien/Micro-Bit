@@ -1,5 +1,5 @@
 ---
-title: Présentation de la carte MicroBit
+title: Présentation de la carte
 nav_order: 1
 ---
 
