@@ -16,7 +16,7 @@ nav_order: 1
 
 Notre première activité consiste à introduire la carte de programmation Micro-bit que nous allons utiliser par la suite. Pour ce faire, avant de donner les cartes Micro-bit aux enfants, interrogez l’ensemble du groupe sur les composants qui constitue un ordinateur d’après eux.
 
-[IMAGE]
+![MicroBit_Overview](/img/1.01.png?raw=true "Database diagram")
 
 Quelques éléments de réponse
 * Un processeur
