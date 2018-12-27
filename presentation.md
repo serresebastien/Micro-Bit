@@ -25,3 +25,15 @@ Quelques éléments de réponse
 * Une batterie
 * Des interfaces de connexion (port USB, Bluetooth...)
 Une fois l’activité terminée, distribuez les cartes Micro-bit aux enfants et laissez-les interagir avec. Faites-les chercher les différents composants cités plus haut sur la carte.
+
+[IMAGE]
+
+## Deuxième activité
+
+Maintenant que les présentations entre la carte Micro-bit et les enfants sont faites, passons à l’interface de programmation nous permettant de coder nos programmes à destination de notre carte Micro-bit.
+
+Demandez aux enfants d’ouvrir un navigateur internet et de se rendre sur le site de Micro-bit : microbit.org. Une fois sur le site, rendez-vous dans « Viens Coder ! », vous arrivez sur une nouvelle page : le JacaScript Block Editor.
+
+[IMAGE]
+
+Voici à quoi ressemble notre interface de programmation. Intéressons-nous aux différentes parties de l’éditeur :
