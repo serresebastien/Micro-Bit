@@ -25,7 +25,7 @@ Utilisons maintenant le bloc de condition « if » pour déterminer vers quelle 
 * Sud de 135 à 225 degrés
 * Ouest de 225 à 315 degrés
 
-<img src="https://github.com/serresebastien/MicroBit/blob/master/img/boussole/02.png?raw=true">
+<img style="with=200px" src="https://github.com/serresebastien/MicroBit/blob/master/img/boussole/02.png?raw=true">
 
 Une fois avoir fait réfléchir les enfants les points cardinaux, voici le code nécessaire afin d’indiquer le bon point cardinal en fonction de l’orientation en degrés de notre Micro-bit.
 
