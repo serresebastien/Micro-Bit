@@ -1,5 +1,5 @@
 ---
-title: Présentation de la carte
+title: 1- Présentation de la carte
 nav_order: 1
 ---
 
@@ -43,7 +43,7 @@ Voici à quoi ressemble notre interface de programmation. Intéressons-nous au
 <span style="color:green; font-weight:bold">En vert :</span> Un espace de visualisation en direct de l’effet de notre code sur la carte Micro-bit. Cela est très pratique et nous permettra de tester notre programme sans avoir besoin de le téléverser sur notre carte.
 Les différentes icônes en dessous de la carte permettent dans l’ordre d’arrêter la simulation, de redémarrer la simulation, de ralentir la vitesse de la simulation, d’activer/désactiver le son et de visualiser la simulation en plein écran.
 
-<span style="color:yellow">**En jaune :**</span> C’est ici que tous les blocs nous permettant de concevoir nos programmes se trouvent. Ils sont classés par catégories et chacune d’entre elle à couleur qui lui est propre. Une barre de recherche en haut nous permet trouver un élément en quelques secondes.
+<span style="color:gold">**En jaune :**</span> C’est ici que tous les blocs nous permettant de concevoir nos programmes se trouvent. Ils sont classés par catégories et chacune d’entre elle à couleur qui lui est propre. Une barre de recherche en haut nous permet trouver un élément en quelques secondes.
 
 <span style="color:red">**En rouge :**</span> Voici notre terrain de jeu. C’est ici que nous construisons nos programmes en y plaçant les blocs obtenus dans le menu. 
 
@@ -52,7 +52,5 @@ Les différentes icônes en dessous de la carte permettent dans l’ordre d’ar
 Intéressons-nous au menu en bas de page. Ce dernier permet de gauche à droite, réduire l’espace de la simulation, télécharger le programme que nous venons de réaliser au format .hex, donner un nom à notre programme, d’annuler la dernière action effectuée, ré effectuer l’action précédemment annulée et de zoomer ou dézoomer sur notre espace de programmation.
 
 C’est le moment de programmer notre premier projet ! Ce premier programme permet aux enfants de s’exercer avec la prise en main de l’interface de programmation.
-
-
 
 
