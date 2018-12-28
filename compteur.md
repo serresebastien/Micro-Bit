@@ -38,6 +38,7 @@ Le compteur est d’ores et déjà fonctionnel, mais nous pouvons lui ajouter de
 Actuellement, notre programme permet à notre compteur d’aller dans les négatifs. Demandez aux enfants de réfléchir sur la façon dont ils pourraient changer cela. Il sera nécessaire de faire intervenir un nouveau bloc : la condition (Si… Alors…).
 
 <img src="https://github.com/serresebastien/MicroBit/blob/master/img/compteur/05.png?raw=true">
+
 *La couleur des blocs ci-dessus est différente car ils ne sont pas imbriqués dans une boucle « toujours » ou « au démarrage »*
 
 Une fois la condition trouvée, il faut qu’elle soit vérifiée à tout moment lors que notre programme tourne sur notre carte. Il suffit donc de la placer dans la boucle « toujours » comme ceci :
