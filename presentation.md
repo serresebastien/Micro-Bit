@@ -16,7 +16,6 @@ nav_order: 1
 
 Notre première activité consiste à introduire la carte de programmation Micro-bit que nous allons utiliser par la suite. Pour ce faire, avant de donner les cartes Micro-bit aux enfants, interrogez l’ensemble du groupe sur les composants qui constitue un ordinateur d’après eux.
 
-![MicroBit_Overview](/img/1.01.png?raw=true "Database diagram")
 ![MicroBit_Overview](https://github.com/serresebastien/MicroBit/blob/master/img/1.01.png?raw=true "Database diagram")
 
 <img src="https://github.com/serresebastien/MicroBit/blob/master/img/1.01.png?raw=true">
@@ -41,7 +40,7 @@ Demandez aux enfants d’ouvrir un navigateur internet et de se rendre sur le si
 
 Voici à quoi ressemble notre interface de programmation. Intéressons-nous aux différentes parties de l’éditeur :
 
-En vert :	Un espace de visualisation en direct de l’effet de notre code sur la carte Micro-bit. Cela est très pratique et nous permettra de tester notre programme sans avoir besoin de le téléverser sur notre carte.
+<span style="color:green">En vert</span> :	Un espace de visualisation en direct de l’effet de notre code sur la carte Micro-bit. Cela est très pratique et nous permettra de tester notre programme sans avoir besoin de le téléverser sur notre carte.
 Les différentes icônes en dessous de la carte permettent dans l’ordre d’arrêter la simulation, de redémarrer la simulation, de ralentir la vitesse de la simulation, d’activer/désactiver le son et de visualiser la simulation en plein écran.
 
 En jaune :	C’est ici que tous les blocs nous permettant de concevoir nos programmes se trouvent. Ils sont classés par catégories et chacune d’entre elle à couleur qui lui est propre. Une barre de recherche en haut nous permet trouver un élément en quelques secondes.
