@@ -5,7 +5,7 @@ nav_order: 1
 
 # MicroBit
 
-## Le contenue
+## Le contenu
 
 ## L'auteur
 
