@@ -32,7 +32,7 @@ Une fois l’activité terminée, distribuez les cartes Micro-bit aux enfants 
 
 Maintenant que les présentations entre la carte Micro-bit et les enfants sont faites, passons à l’interface de programmation nous permettant de coder nos programmes à destination de notre carte Micro-bit.
 
-Demandez aux enfants d’ouvrir un navigateur internet et de se rendre sur le site de Micro-bit : [microbit.org](https://microbit.org/). Une fois sur le site, rendez-vous dans « Viens Coder ! », vous arrivez sur une nouvelle page : le *JacaScript Block Editor*.
+Demandez aux enfants d’ouvrir un navigateur internet et de se rendre sur le site de Micro-bit : [microbit.org](https://microbit.org/). Une fois sur le site, rendez-vous dans « Viens Coder ! », vous arrivez sur une nouvelle page : le *JavaScript Block Editor*.
 
 <img src="https://github.com/serresebastien/MicroBit/blob/master/img/introduction/03.png?raw=true">
 
