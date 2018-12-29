@@ -24,6 +24,7 @@ Quelques éléments de réponse
 * Des périphériques de sorties (écran, imprimante, haut-parleur...)
 * Une batterie
 * Des interfaces de connexion (port USB, Bluetooth...)
+
 Une fois l’activité terminée, distribuez les cartes Micro-bit aux enfants et laissez-les interagir avec. Faites-les chercher les différents composants cités plus haut sur la carte.
 
 <img src="https://github.com/serresebastien/MicroBit/blob/master/img/introduction/02.png?raw=true">
