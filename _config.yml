@@ -1,5 +1,9 @@
 remote_theme: pmarsceill/just-the-docs
-title: MicroBit
+
+title: Micro:bit
+
 aux_links:
     "Voir la source sur GitHub":
       - "//github.com/sebastienserre/MicroBit"
+      
+exclude: ["LICENSE.txt", "README.md"]
