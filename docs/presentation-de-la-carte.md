@@ -78,3 +78,5 @@ Maintenant que notre code est réalisé, il nous reste à le téléverser s
 Une fois le fichier *microbit-hello.hex* téléchargé sur l’ordinateur, connecté la carte Micro-bit à l’ordinateur via le câble USB fourni dans la boite et placer le fichier dans le Micro-bit (un simple glissé déposé ou un copier/coller suffit).
 
 <img src="https://github.com/serresebastien/MicroBit/blob/master/img/introduction/07.png?raw=true">
+
+Vous pouvez télécharger le programe ci dessus ici : <a href="https://raw.githubusercontent.com/serresebastien/MicroBit/master/code/microbit-hello.hex">microbit-hello.hex</a>
