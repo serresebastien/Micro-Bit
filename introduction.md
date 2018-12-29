@@ -27,15 +27,13 @@ Quelques éléments de réponse
 
 Une fois l’activité terminée, distribuez les cartes Micro-bit aux enfants et laissez-les interagir avec. Faites-les chercher les différents composants cités plus haut sur la carte.
 
-<img src="https://github.com/serresebastien/MicroBit/blob/master/img/introduction/02.png?raw=true">
-
 ## Deuxième activité
 
 Maintenant que les présentations entre la carte Micro-bit et les enfants sont faites, passons à l’interface de programmation nous permettant de coder nos programmes à destination de notre carte Micro-bit.
 
 Demandez aux enfants d’ouvrir un navigateur internet et de se rendre sur le site de Micro-bit : [microbit.org](https://microbit.org/). Une fois sur le site, rendez-vous dans « Viens Coder ! », vous arrivez sur une nouvelle page : le *JavaScript Block Editor*.
 
-<img src="https://github.com/serresebastien/MicroBit/blob/master/img/introduction/03.png?raw=true">
+<img src="https://github.com/serresebastien/MicroBit/blob/master/img/introduction/02.png?raw=true">
 
 Voici à quoi ressemble notre interface de programmation. Intéressons-nous aux différentes parties de l’éditeur :
 
@@ -46,7 +44,7 @@ Les différentes icônes en dessous de la carte permettent dans l’ordre d’ar
 
 <span style="color:red">**En rouge :**</span> Voici notre terrain de jeu. C’est ici que nous construisons nos programmes en y plaçant les blocs obtenus dans le menu. 
 
-<img src="https://github.com/serresebastien/MicroBit/blob/master/img/introduction/04.png?raw=true">
+<img src="https://github.com/serresebastien/MicroBit/blob/master/img/introduction/03.png?raw=true">
 
 Intéressons-nous au menu en bas de page. Ce dernier permet de gauche à droite, réduire l’espace de la simulation, télécharger le programme que nous venons de réaliser au format .hex, donner un nom à notre programme, d’annuler la dernière action effectuée, ré effectuer l’action précédemment annulée et de zoomer ou dézoomer sur notre espace de programmation.
 
@@ -56,7 +54,7 @@ C’est le moment de programmer notre premier projet ! Ce premier programme perm
 
 Notre programme permet simplement d’afficher des icônes sur l’écran de notre Micro-bit. Nous allons exclusivement utiliser les blocs présents dans la partie « Basique » (en bleu).
 
-<img src="https://github.com/serresebastien/MicroBit/blob/master/img/introduction/05.png?raw=true">
+<img src="https://github.com/serresebastien/MicroBit/blob/master/img/introduction/04.png?raw=true">
 
 Notre programme se déroule en deux étapes. La première se déroule une fois la carte sous tension et la deuxième se déroule sans cesse une fois la première terminée.
 
@@ -64,6 +62,8 @@ Pour se faire, nous allons utiliser deux blocs « au démarrage » et «toujour
 Laissez les enfants s’approprier les blocs. Proposez-leur de faire un programme qui affiche des icônes au démarrage puis leur prénom suivi de leur âge indéfiniment.
 
 Voici une proposition de réponse, bien entendu il n’y a pas de réponse exacte, celle-ci est donnée à titre d’exemple.
+
+<img src="https://github.com/serresebastien/MicroBit/blob/master/img/introduction/05.png?raw=true">
 
 Le programme ci-dessus, affiche au démarrage un cœur puis le texte suivant indéfiniment :
 ```
