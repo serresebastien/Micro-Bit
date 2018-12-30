@@ -79,4 +79,4 @@ Une fois le fichier *microbit-hello.hex* téléchargé sur l’ordinateur, co
 
 <img src="https://github.com/serresebastien/MicroBit/blob/master/img/introduction/07.png?raw=true">
 
-Vous pouvez télécharger le programe ci dessus ici : <a href="https://raw.githubusercontent.com/serresebastien/MicroBit/master/code/microbit-hello.hex">microbit-hello.hex</a>
+Vous pouvez télécharger le programe ci dessus ici : <a href="https://github.com/serresebastien/MicroBit/blob/master/code/microbit-hello.hex">microbit-hello.hex</a>
