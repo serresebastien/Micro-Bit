@@ -15,11 +15,11 @@ nav_order: 9
 
 Nous allons utiliser les boutons A et B pour aller à gauche et à droite. Pour garder une trace de l'emplacement de l'utilisateur, nous devons utiliser une variable qui stockera la position X de notre joueur.
 
-<img src="https://github.com/serresebastien/MicroBit/blob/master/img/meteor/01.png?raw=true">
+<img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/01.png?raw=true">
 
 Maintenant, demandez aux enfants de faire en sorte de pouvoir déplacer le joueur à l’aide des bloc « plot » et « unplot ».
 
-<img src="https://github.com/serresebastien/MicroBit/blob/master/img/meteor/02.png?raw=true">
+<img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/02.png?raw=true">
 
 Téléverser le code sur la carte Micro-bit. Que se passe-t-il lorsque vous cliquez sur A lorsque le voyant est complètement à gauche ? Laissez les enfants essayer leur code et donnez-leur des pistes afin de corriger les mouvements du joueur.
 
@@ -29,11 +29,11 @@ La LED représentant le joueur sort de notre écran quand nous allons trop loin 
 
 Afin de corriger cela, il faut forcer notre variable « player » à rester entre 0 et 4 strictement.
 
-<img src="https://github.com/serresebastien/MicroBit/blob/master/img/meteor/03.png?raw=true">
+<img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/03.png?raw=true">
 
 Nous souhaitons également commencer avec notre joueur au milieu de l’écran. Nous pouvons le faire en appuyant sur les deux boutons A+B en même temps qui vont réinitialiser la position et redémarrer le jeu.
 
-<img src="https://github.com/serresebastien/MicroBit/blob/master/img/meteor/04.png?raw=true">
+<img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/04.png?raw=true">
 
 Téléverser le code dans notre carte et faite encore tester les enfants. Si tout a bien été réalisé le joueur reste maintenant visible sur notre écran et ne disparaît plus.
 
@@ -47,19 +47,19 @@ Ces derniers commencent à une position aléatoire sur la rangée supérieure de
 
 Le code pour les météores doit se mettre dans l’évènement « A+B pressés ».
 
-<img src="https://github.com/serresebastien/MicroBit/blob/master/img/meteor/05.png?raw=true">
+<img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/05.png?raw=true">
 
 Quand le météore atteint la rangée du bas, nous devons voir si le météore a frappé notre joueur. Nous faisons cela en comparant les variables « meteor-x » et « player ». Si ce sont les mêmes, alors le météore a frappé le joueur et le jeu est perdu.
 
-<img src="https://github.com/serresebastien/MicroBit/blob/master/img/meteor/06.png?raw=true">
+<img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/06.png?raw=true">
 
 Presque fini ! Nous voulons maintenant nous assurer que nous pouvons jouer jusqu'à ce qu'un météore touche le joueur. Pour se faire, nous utilisons une nouvelle variable « alive » et une boucle while.
 
-<img src="https://github.com/serresebastien/MicroBit/blob/master/img/meteor/07.png?raw=true">
+<img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/07.png?raw=true">
 
 Il faut également faire les changements dans les mouvements de notre joueur.
 
-<img src="https://github.com/serresebastien/MicroBit/blob/master/img/meteor/08.png?raw=true">
+<img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/08.png?raw=true">
 
 ## Pour aller plus loin (1/2)
 
