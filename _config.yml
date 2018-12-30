@@ -4,6 +4,6 @@ title: Micro:bit
 
 aux_links:
     "Voir la source sur GitHub":
-      - "//github.com/sebastienserre/MicroBit"
+      - "//github.com/serresebastien/Micro-Bit"
       
 exclude: ["LICENSE.txt", "README.md"]
