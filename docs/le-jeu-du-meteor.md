@@ -8,7 +8,7 @@ nav_order: 9
 ## Objectif de la fiche
 
 * Réaliser son premier jeu entièrement sur Micro-bit
-* Savoir utiliser les blocs « plot » et « unplot »
+* Savoir utiliser les blocs `plot` et `unplot`
 * Se repérer dans un repère cartésien XY
 
 ## Première étape, faire bouger le LED du joueur
@@ -17,7 +17,7 @@ Nous allons utiliser les boutons A et B pour aller à gauche et à droite. Pour 
 
 <img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/01.png?raw=true">
 
-Maintenant, demandez aux enfants de faire en sorte de pouvoir déplacer le joueur à l’aide des bloc « plot » et « unplot ».
+Maintenant, demandez aux enfants de faire en sorte de pouvoir déplacer le joueur à l’aide des bloc `plot` et `unplot`.
 
 <img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/02.png?raw=true">
 
@@ -27,7 +27,7 @@ Téléverser le code sur la carte Micro-bit. Que se passe-t-il lorsque vous cliq
 
 La LED représentant le joueur sort de notre écran quand nous allons trop loin sur les côtés.
 
-Afin de corriger cela, il faut forcer notre variable « player » à rester entre 0 et 4 strictement.
+Afin de corriger cela, il faut forcer notre variable `player` à rester entre 0 et 4 strictement.
 
 <img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/03.png?raw=true">
 
@@ -41,19 +41,19 @@ Téléverser le code dans notre carte et faite encore tester les enfants. Si tou
 
 Maintenant que notre joueur peut se déplacer, attaquons-nous aux météores.
 
-Ces derniers commencent à une position aléatoire sur la rangée supérieure de l’écran et tombent progressivement vers le bas. Nous avons donc besoin de deux variables pour contrôler la position des météores selon X et Y, « meteor-x » et « meteor-y ».
+Ces derniers commencent à une position aléatoire sur la rangée supérieure de l’écran et tombent progressivement vers le bas. Nous avons donc besoin de deux variables pour contrôler la position des météores selon X et Y, `meteor-x` et `meteor-y`.
 
-« meteor-x » est mis à une valeur aléatoire entre 0 et 4, et « meteor-y » est contrôlé par une boucle for qui met le météore y de 0 à 4 toutes les 100ms.
+`meteor-x` est mis à une valeur aléatoire entre 0 et 4, et `meteor-y` est contrôlé par une boucle for qui met le météore y de 0 à 4 toutes les 100ms.
 
-Le code pour les météores doit se mettre dans l’évènement « A+B pressés ».
+Le code pour les météores doit se mettre dans l’évènement `A+B pressés`.
 
 <img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/05.png?raw=true">
 
-Quand le météore atteint la rangée du bas, nous devons voir si le météore a frappé notre joueur. Nous faisons cela en comparant les variables « meteor-x » et « player ». Si ce sont les mêmes, alors le météore a frappé le joueur et le jeu est perdu.
+Quand le météore atteint la rangée du bas, nous devons voir si le météore a frappé notre joueur. Nous faisons cela en comparant les variables `meteor-x` et `player`. Si ce sont les mêmes, alors le météore a frappé le joueur et le jeu est perdu.
 
 <img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/06.png?raw=true">
 
-Presque fini ! Nous voulons maintenant nous assurer que nous pouvons jouer jusqu'à ce qu'un météore touche le joueur. Pour se faire, nous utilisons une nouvelle variable « alive » et une boucle while.
+Presque fini ! Nous voulons maintenant nous assurer que nous pouvons jouer jusqu'à ce qu'un météore touche le joueur. Pour se faire, nous utilisons une nouvelle variable `alive` et une boucle while.
 
 <img src="https://github.com/serresebastien/Micro-Bit/blob/master/img/le-jeu-du-meteor/07.png?raw=true">
 
