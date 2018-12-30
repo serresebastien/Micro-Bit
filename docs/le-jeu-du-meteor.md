@@ -63,7 +63,7 @@ Il faut également faire les changements dans les mouvements de notre joueur.
 
 ## Pour aller plus loin (1/2)
 
-Ajouter une variable score et ajouter 1 à chaque fois qu'un météore est évité.
+Ajouter une variable `score` et ajouter 1 à chaque fois qu'un météore est évité.
 Montrez cette variable au lieu du X géant à la fin de la partie.
 
 ## Pour aller plus loin (2/2)

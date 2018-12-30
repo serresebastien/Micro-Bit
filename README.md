@@ -12,6 +12,6 @@ N'attendez plus et commencez dès maintenant avec [la présentation de la carte]
 
 Je m'appelle Sébastien Serre, je suis un étudiant ingénieur en Cloud français. Bricoleur et développeur, j'aime pouvoir transmettre ma passion à travers mes créations. Retrouvez mes autres projets sur ma page [GitHub](https://github.com/serresebastien).
 
-## Licence
+## License
 
 Tout mon contenu est disponible en open source selon les termes de la [License MIT](http://opensource.org/licenses/MIT).
