@@ -1,9 +1,9 @@
 ---
-title: 7- Le jeu du pierre papier siceaux
+title: 7- Le jeu du pierre papier ciseau
 nav_order: 7
 ---
 
-# Le jeu de pierre papier siceaux
+# Le jeu de pierre papier ciseau
 
 ## Objectif de la fiche
 
